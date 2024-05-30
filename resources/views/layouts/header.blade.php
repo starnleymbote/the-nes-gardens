@@ -1,10 +1,10 @@
-
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
 
 
 <!-- Mirrored from themesflat.co/html/homzen/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 May 2024 06:20:09 GMT -->
+
 <head>
     <meta charset="utf-8">
     <title>Homzen - Real Estate HTML Template</title>
@@ -12,18 +12,18 @@
     <meta name="author" content="themesflat.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-   <!-- font -->
-   <link rel="stylesheet" href="fonts/fonts.css">
-   <!-- Icons -->
-   <link rel="stylesheet" href="{{ asset('/fonts/font-icons.css') }}">
-   <link rel="stylesheet" href="{{ asset('/css/bootstrap.min.css') }}">
-   <link rel="stylesheet" href="{{ asset('/css/swiper-bundle.min.css') }}">
-   <link rel="stylesheet" href="{{ asset('/css/animate.css') }}">
-   <link rel="stylesheet"type="text/css" href="{{ ('css/styles.css') }}"/>
+    <!-- font -->
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <!-- Icons -->
+    <link rel="stylesheet" href="{{ asset('/fonts/font-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/swiper-bundle.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/animate.css') }}">
+    <link rel="stylesheet"type="text/css" href="{{ 'css/styles.css' }}" />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="images/logo/favicon.png">
-<link rel="apple-touch-icon-precomposed" href="images/logo/favicon.png">
+    <link rel="shortcut icon" href="images/logo/new_logo.png">
+    <link rel="apple-touch-icon-precomposed" href="images/logo/new_logo.png">
 
 </head>
 
@@ -32,20 +32,32 @@
     <div class="preload preload-container">
         <div class="boxes ">
             <div class="box">
-                <div></div> <div></div> <div></div> <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
             </div>
             <div class="box">
-                <div></div> <div></div> <div></div> <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
             </div>
             <div class="box">
-                <div></div> <div></div> <div></div> <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
             </div>
             <div class="box">
-                <div></div> <div></div> <div></div> <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
             </div>
         </div>
     </div>
-    
+
     <!-- /preload -->
 
     <div id="wrapper">
@@ -55,12 +67,13 @@
             <header class="main-header fixed-header">
                 <!-- Header Lower -->
                 <div class="header-lower">
-                    <div class="row">                      
-                        <div class="col-lg-12">         
+                    <div class="row">
+                        <div class="col-lg-12">
                             <div class="inner-container d-flex justify-content-between align-items-center">
                                 <!-- Logo Box -->
                                 <div class="logo-box">
-                                    <div class="logo"><a href="index-2.html"><img src="images/logo/logo%402x.png" alt="logo" width="174" height="44"></a></div>
+                                    <div class="logo"><a href="index-2.html"><img src="images/logo/new_logo.png"
+                                                alt="logo" width="174" height="30"></a></div>
                                 </div>
                                 <div class="nav-outer">
                                     <!-- Main Menu -->
@@ -80,10 +93,12 @@
                                                 </li>
                                                 <li class="dropdown2"><a href="#">Listing</a>
                                                     <ul>
-                                                        <li><a href="property-halfmap-grid.html">Property Half Map Grid</a>
-                                                            
+                                                        <li><a href="property-halfmap-grid.html">Property Half Map
+                                                                Grid</a>
+
                                                         </li>
-                                                        <li><a href="property-halfmap-list.html">Property Half Map List</a></li>
+                                                        <li><a href="property-halfmap-list.html">Property Half Map
+                                                                List</a></li>
                                                         <li><a href="topmap-grid.html">Find Topmap Grid</a></li>
                                                         <li><a href="topmap-list.html">Find Topmap List</a></li>
                                                         <li><a href="sidebar-grid.html">Find Sidebar Grid</a></li>
@@ -93,10 +108,14 @@
                                                 </li>
                                                 <li class="dropdown2"><a href="#">Properties</a>
                                                     <ul>
-                                                        <li><a href="property-details-v1.html">Property Details 1</a></li>
-                                                        <li><a href="property-details-v2.html">Property Details 2</a></li>
-                                                        <li><a href="property-details-v3.html">Property Details 3</a></li>
-                                                        <li><a href="property-details-v4.html">Property Details 4</a></li>
+                                                        <li><a href="property-details-v1.html">Property Details 1</a>
+                                                        </li>
+                                                        <li><a href="property-details-v2.html">Property Details 2</a>
+                                                        </li>
+                                                        <li><a href="property-details-v3.html">Property Details 3</a>
+                                                        </li>
+                                                        <li><a href="property-details-v4.html">Property Details 4</a>
+                                                        </li>
                                                     </ul>
                                                 </li>
                                                 <li class="dropdown2"><a href="#">Pages</a>
@@ -116,7 +135,7 @@
                                                         <li><a href="blog-detail.html">Blog Post Details</a></li>
                                                     </ul>
                                                 </li>
-                                                
+
                                                 <li class="dropdown2"><a href="#">Dashboard</a>
                                                     <ul>
                                                         <li><a href="dashboard.html">Dashboard</a></li>
@@ -143,23 +162,24 @@
                                     </div>
                                     <div class="flat-bt-top">
                                         <a class="tf-btn primary" href="add-property.html">Submit Property</a>
-                                    </div>  
+                                    </div>
                                 </div>
-                                
+
                                 <div class="mobile-nav-toggler mobile-button"><span></span></div>
-                                
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- End Header Lower -->
-            
+
                 <!-- Mobile Menu  -->
-                <div class="close-btn"><span class="icon flaticon-cancel-1"></span></div>    
+                <div class="close-btn"><span class="icon flaticon-cancel-1"></span></div>
                 <div class="mobile-menu">
-                    <div class="menu-backdrop"></div>                            
+                    <div class="menu-backdrop"></div>
                     <nav class="menu-box">
-                        <div class="nav-logo"><a href="index-2.html"><img src="images/logo/logo%402x.png" alt="nav-logo" width="174" height="44"></a></div>
+                        <div class="nav-logo"><a href="index-2.html"><img src="images/logo/logo%402x.png"
+                                    alt="nav-logo" width="174" height="44"></a></div>
                         <div class="bottom-canvas">
                             <div class="login-box flex align-items-center">
                                 <a href="#modalLogin" data-bs-toggle="modal">Login</a>
@@ -169,7 +189,7 @@
                             <div class="menu-outer"></div>
                             <div class="button-mobi-sell">
                                 <a class="tf-btn primary" href="add-property.html">Submit Property</a>
-                            </div> 
+                            </div>
                             <div class="mobi-icon-box">
                                 <div class="box d-flex align-items-center">
                                     <span class="icon icon-phone2"></span>
@@ -181,10 +201,10 @@
                                 </div>
                             </div>
                         </div>
-                    </nav>                
+                    </nav>
                 </div>
                 <!-- End Mobile Menu -->
-            
+
             </header>
             <!-- End Main Header -->
             <!-- Slider -->
