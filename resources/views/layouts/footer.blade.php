@@ -258,6 +258,15 @@
  <script type="text/javascript" src="{{ asset('/js/shortcodes.js') }}"></script>
  <script type="text/javascript" src="{{ asset('/js/animation_heading.js') }}"></script>
  <script type="text/javascript" src="{{ asset('/js/main.js') }}"></script>
+ <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuSiPhoDaOJ7aqtJVtQhYhLzwwJ7rQlmA"></script>
+ <script src="{{ asset('/js/map.js') }}"></script>
+ <script src="{{ asset('/js/marker.js') }}"></script>
+ <script src="{{ asset('/js/infobox.min.js') }}"></script>
+
+
+ <script type="text/javascript" src="{{ asset('/js/chart.js') }}"></script>
+ <script type="text/javascript" src="{{ asset('/js/chart-init.js') }}"></script>
+ <script type="text/javascript" src="{{ asset('/js/jqueryui.min.js') }}"></script>
 
  </body>
 
