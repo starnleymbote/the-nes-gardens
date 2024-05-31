@@ -63,8 +63,9 @@ Route::get('/dashboard', function () {
 })->name('dashboard');
 
 Route::get('/my-favorites', function () {
-    return view('dashboard.my_favorites');
+    return view('dashboard.my_favourites');
 })->name('favorites');
+
 Route::get('/my-properties', function () {
     return view('dashboard.my_properties');
 })->name('properties');

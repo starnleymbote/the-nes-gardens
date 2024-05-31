@@ -1,18 +1,19 @@
 <div class="sidebar-menu-dashboard">
     <ul class="box-menu-dashboard">
-        <li class="nav-menu-item active"><a class="nav-menu-link" href="dashboard.html"><span
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('dashboard') }}"><span
                     class="icon icon-dashboard"></span> Dashboards</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="my-property.html"><span
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('properties') }}"><span
                     class="icon icon-list-dashes"></span>My Properties</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="my-invoices.html"><span
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('invoices') }}"><span
                     class="icon icon-file-text"></span> My Invoices</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="my-favorites.html"><span
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('favorites') }}"><span
                     class="icon icon-heart"></span>My Favorites</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="reviews.html"><span class="icon icon-review"></span>
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('reviews') }}"><span
+                    class="icon icon-review"></span>
                 Reviews</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="my-profile.html"><span
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('profile') }}"><span
                     class="icon icon-profile"></span> My Profile</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="add-property.html">
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('add-property') }}">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
                     <path
@@ -20,7 +21,8 @@
                         fill="#A3ABB0" />
                 </svg>
                 Add Property</a></li>
-        <li class="nav-menu-item"><a class="nav-menu-link" href="index-2.html"><span class="icon icon-sign-out"></span>
+        <li class="nav-menu-item"><a class="nav-menu-link" href="{{ route('home') }}"><span
+                    class="icon icon-sign-out"></span>
                 Logout</a></li>
     </ul>
 </div>
