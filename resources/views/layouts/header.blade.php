@@ -27,8 +27,8 @@
 
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="images/logo/new_logo.png">
-    <link rel="apple-touch-icon-precomposed" href="images/logo/new_logo.png">
+    <link rel="shortcut icon" href="images/logo/logo-footer.png">
+    <link rel="apple-touch-icon-precomposed" href="images/logo/logo-footer.png">
 
 </head>
 

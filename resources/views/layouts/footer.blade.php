@@ -4,7 +4,7 @@
          <div class="container">
              <div class="content-footer-top">
                  <div class="footer-logo">
-                     <img src="images/logo/new_logo.png" alt="logo-footer" width="174" height="44">
+                     <img src="images/logo/logo-footer.png" alt="logo-footer" width="174" height="44">
                  </div>
                  <div class="wd-social">
                      <span>Follow Us:</span>
