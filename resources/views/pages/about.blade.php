@@ -7,7 +7,7 @@
                 <li>/ Pages</li>
                 <li>/ About Us</li>
             </ul>
-            <h2 class="text-center">About The Homzen</h2>
+            <h2 class="text-center">{{ config('app.app_name') }}</h2>
         </div>
     </section>
     <!-- End Page Title -->
@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
-                    <h3>Welcome To The <br> Homzen</h3>
+                    <h3>Welcome To The <br> {{ config('app.app_name') }}</h3>
                 </div>
                 <div class="col-md-7 hover-btn-view">
                     <P class="body-2 text-variant-1">Welcome to Homeya, where we turn houses into homes and dreams into
