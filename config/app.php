@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'app_name' => env('APP_NAME', 'The Nes Gardens'),
 
     /*
     |--------------------------------------------------------------------------
