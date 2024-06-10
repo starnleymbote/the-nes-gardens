@@ -384,7 +384,7 @@
                     <div class="tab-pane fade" id="viewAll" role="tabpanel">
                         <div class="row">
 
-                            <x-home-card-listing></x-home-card.listing>
+                            <x-home-card-listing></x-home-card-listing>
 
                             {{-- <x-home-card.listing isFeatured = "Featured" type = "For Sale" listType = "Studio"
                                 name = "Villa del Mar Retreat, Malibu"
