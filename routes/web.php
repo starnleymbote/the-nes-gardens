@@ -85,3 +85,5 @@ Route::get('/add-property', function () {
 Route::get('/reviews', function () {
     return view('dashboard.reviews');
 })->name('reviews');
+
+Route::view('property-details', 'pages.property_details');

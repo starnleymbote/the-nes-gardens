@@ -20,9 +20,7 @@
                     <h3>Welcome To The <br> {{ config('app.app_name') }}</h3>
                 </div>
                 <div class="col-md-7 hover-btn-view">
-                    <P class="body-2 text-variant-1">Welcome to Homeya, where we turn houses into homes and dreams into
-                        reality. At Homeya, we understand that a home is more than just a physical space; it's a place where
-                        memories are created, families grow, and life unfolds. </P>
+                    <P class="body-2 text-variant-1">The Nes Gardens, meaning "the miracle gardens," is a Nairobi-based real estate company committed to delivering exceptional housing solutions. Specializing in affordable and high-quality homes, The Nes Gardens seeks to address the pressing need for accessible housing in Kenya. By prioritizing affordability without compromising on quality, the company aims to enhance the living standards of many Kenyans, making homeownership a reality for a wider audience. </P>
                     <a href="#" class="btn-view style-1"><span class="text">Learn More</span> <span
                             class="icon icon-arrow-right2"></span> </a>
 
@@ -37,6 +35,16 @@
         </div>
     </section>
     <!-- end banner video -->
+    <section class="flat-title-page style-2">
+        <div class="container">
+            <h2 class="text-center fs-22 text-primary">Vision Statement</u></h2>
+        </div>
+        <div class="text-center">
+            <h6 class="mt-4 fs-18">To be the Real Estate developer in Kenya, renowned for transforming lives through the creation of affordable, high-quality homes with unique features in tranquil and beautiful environments.
+            </h6>
+        </div>
+    </section>
+
     <!-- Service -->
     <section class="flat-section-v3 flat-service-v2 bg-surface">
         <div class="container">
@@ -45,12 +53,9 @@
                     <div class="box-left">
                         <div class="box-title">
                             <div class="text-subtitle text-primary">Why Choose Us</div>
-                            <h4 class="mt-4">Discover What Sets Our Real Estate Expertise Apart</h4>
+                            <h4 class="mt-4">Core Values</h4>
                         </div>
-                        <p>At Homeya, our unwavering commitment lies in crafting unparalleled real estate journeys. Our
-                            seasoned professionals, armed with extensive market knowledge, walk alongside you through every
-                            phase of your property endeavor. We prioritize understanding your unique aspirations, tailoring
-                            our expertise to match your vision.</p>
+                        <p>At The Nes Gardens, our unwavering commitment lies in crafting unparalleled real estate journeys. </p>
                         <ul class="list-view">
                             <li>
                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
@@ -62,7 +67,43 @@
                                         d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
                                         fill="white" />
                                 </svg>
-                                Transparent Partnerships
+                                Quality  
+                            </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Affordability --}}
+                            </li>            
+                            <li>
+                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Sustainability
+                            </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg> --}}
+                                {{-- Innovation --}}
                             </li>
                             <li>
                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
@@ -74,7 +115,19 @@
                                         d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
                                         fill="white" />
                                 </svg>
-                                Proven Expertise
+                                Integrity
+                            </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Customer Focus --}}
                             </li>
                             <li>
                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
@@ -86,7 +139,19 @@
                                         d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
                                         fill="white" />
                                 </svg>
-                                Customized Solutions
+                                Community
+                            </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Excellence --}}
                             </li>
                             <li>
                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
@@ -98,8 +163,68 @@
                                         d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
                                         fill="white" />
                                 </svg>
-                                Local Area Knowledge
+                                Affordability
                             </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Excellence --}}
+                            </li>
+                            <li>
+                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Customer Focus
+                            </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Excellence --}}
+                            </li>             
+                            <li>
+                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Excellence
+                            </li>
+                            <li>
+                                {{-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8 15.9947C12.4183 15.9947 16 12.4154 16 8C16 3.58462 12.4183 0.00524902 8 0.00524902C3.58172 0.00524902 0 3.58462 0 8C0 12.4154 3.58172 15.9947 8 15.9947Z"
+                                        fill="#198754" />
+                                    <path
+                                        d="M7.35849 12.2525L3.57599 9.30575L4.65149 7.9255L6.97424 9.735L10.8077 4.20325L12.2462 5.19975L7.35849 12.2525Z"
+                                        fill="white" />
+                                </svg>
+                                Excellence --}}
+                            </li>                                        
                         </ul>
                         <a href="contact.html" class="btn-view"><span class="text">Contact Us</span> <span
                                 class="icon icon-arrow-right2"></span> </a>
@@ -110,31 +235,30 @@
                     <div class="box-right">
                         <div class="box-service style-1 hover-btn-view">
                             <div class="icon-box">
-                                <span class="icon icon-buy-home"></span>
+                                <span class="icon icon"></span>
                             </div>
                             <div class="content">
-                                <h6 class="title">Buy A New Home</h6>
-                                <p class="description">Explore diverse properties and expert guidance for a seamless buying
-                                    experience.</p>
+                                <h6 class="title">Our Vision</h6>
+                                <p class="description">"To revolutionize the real estate market in Kenya by creating inclusive, high-quality housing communities that inspire and uplift lives."
+                                </p>
                                 <a href="#" class="btn-view style-1"><span class="text">Learn More</span> <span
                                         class="icon icon-arrow-right2"></span> </a>
                             </div>
                         </div>
                         <div class="box-service style-1 hover-btn-view">
                             <div class="icon-box">
-                                <span class="icon icon-rent-home"></span>
+                                <span class="icon icon"></span>
                             </div>
                             <div class="content">
-                                <h6 class="title">Rent a home</h6>
-                                <p class="description">Explore a diverse variety of listings tailored precisely to suit your
-                                    unique lifestyle needs.</p>
+                                <h6 class="title">Mission Statement</h6>
+                                <p class="description">"Our mission is to provide affordable and superior housing solutions, making homeownership achievable for all. We strive to build vibrant, sustainable communities through innovation, excellence, and a deep commitment to our customers' needs."</p>
                                 <a href="#" class="btn-view style-1"><span class="text">Learn More</span> <span
                                         class="icon icon-arrow-right2"></span> </a>
                             </div>
                         </div>
-                        <div class="box-service style-1 hover-btn-view">
+                        {{-- <div class="box-service style-1 hover-btn-view">
                             <div class="icon-box">
-                                <span class="icon icon-sale-home"></span>
+                                <span class="icon icon"></span>
                             </div>
                             <div class="content">
                                 <h6 class="title">Sell a home</h6>
@@ -142,7 +266,7 @@
                                 <a href="#" class="btn-view style-1"><span class="text">Learn More</span> <span
                                         class="icon icon-arrow-right2"></span> </a>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>

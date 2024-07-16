@@ -40,21 +40,30 @@
                  <div class="col-lg-4 col-md-6">
                      <div class="footer-cl-1">
 
-                         <p class="text-variant-2">Specializes in providing high-class tours for those in need. Contact
+                         <p class="text-variant-2">Home of Tranquility </br> Contact
                              Us</p>
                          <ul class="mt-12">
                              <li class="mt-12 d-flex align-items-center gap-8">
                                  <i class="icon icon-mapPinLine fs-20 text-variant-2"></i>
-                                 <p class="text-white">101 E 129th St, East Chicago, IN 46312, US</p>
+                                 <p class="text-white">Approx 100Mtrs ,Off Kiambu road ( Conqara Grounds).
+                                </p>
                              </li>
                              <li class="mt-12 d-flex align-items-center gap-8">
                                  <i class="icon icon-phone2 fs-20 text-variant-2"></i>
-                                 <a href="tel:1-333-345-6868" class="text-white caption-1">1-333-345-6868</a>
+                                 <a href="tel:254112708684" class="text-white caption-1">+254 112 708 684 OR</a>
+                                 <a href="tel:254755668385" class="text-white caption-1">+254 755 668 385</a>
                              </li>
                              <li class="mt-12 d-flex align-items-center gap-8">
                                  <i class="icon icon-mail fs-20 text-variant-2"></i>
-                                 <p class="text-white">themesflat@gmail.com</p>
+                                 <p class="text-white">P.O Box 104097 -00101, Jamla</p>
                              </li>
+                             <li class="mt-12 d-flex align-items-center gap-8">
+                                <i class="icon icon-send fs-20 text-variant-2"></i>
+                                <p class="text-white">
+                                    <a href="mailto:anna@nesgardens.com" class="text-white caption-1">anna@nesgardens.com</a>
+                                    <a href="mailto:erick@nesgardens.com" class="text-white caption-1">erick@nesgardens.com</a> 
+                                </p>
+                            </li>
                          </ul>
 
                      </div>

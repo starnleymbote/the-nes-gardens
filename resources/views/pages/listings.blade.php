@@ -288,11 +288,11 @@
                         <div class="h7 fw-7 title">Latest Propeties</div>
                         <ul>
                             <li class="latest-property-item">
-                                <a href="property-details-v1.html" class="images-style">
+                                <a href="property-details" class="images-style">
                                     <img src="images/home/house-sm-3.jpg" alt="img">
                                 </a>
                                 <div class="content">
-                                    <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Casa Lomas de Mach...</a></div>
+                                    <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Casa Lomas de Mach...</a></div>
                                     <ul class="meta-list">
                                         <li class="item">
                                             <span>Bed:</span>
@@ -313,11 +313,11 @@
                                 </div>
                             </li>
                             <li class="latest-property-item">
-                                <a href="property-details-v1.html" class="images-style">
+                                <a href="property-details" class="images-style">
                                     <img src="images/home/house-sm-9.jpg" alt="img">
                                 </a>
                                 <div class="content">
-                                    <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Lakeview Haven...</a></div>
+                                    <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Lakeview Haven...</a></div>
                                     <ul class="meta-list">
                                         <li class="item">
                                             <span>Bed:</span>
@@ -338,11 +338,11 @@
                                 </div>
                             </li>
                             <li class="latest-property-item">
-                                <a href="property-details-v1.html" class="images-style">
+                                <a href="property-details" class="images-style">
                                     <img src="images/home/house-sm-1.jpg" alt="img">
                                 </a>
                                 <div class="content">
-                                    <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Sunset Heights Estate</a></div>
+                                    <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Sunset Heights Estate</a></div>
                                     <ul class="meta-list">
                                         <li class="item">
                                             <span>Bed:</span>
@@ -363,11 +363,11 @@
                                 </div>
                             </li>
                             <li class="latest-property-item">
-                                <a href="property-details-v1.html" class="images-style">
+                                <a href="property-details" class="images-style">
                                     <img src="images/home/house-sm-4.jpg" alt="img">
                                 </a>
                                 <div class="content">
-                                    <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">de Machalí Machas...</a></div>
+                                    <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">de Machalí Machas...</a></div>
                                     <ul class="meta-list">
                                         <li class="item">
                                             <span>Bed:</span>
@@ -401,7 +401,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-1.jpg" alt="img">
                                             </div>
@@ -427,7 +427,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link"> Casa Lomas de Machalí Machas</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link"> Casa Lomas de Machalí Machas</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>33 Maple Street, San Francisco, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -462,7 +462,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-2.jpg" alt="img">
                                             </div>
@@ -488,7 +488,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Villa del Mar Retreat, Malibu</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Villa del Mar Retreat, Malibu</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>72 Sunset Avenue, Los Angeles, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -523,7 +523,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-3.jpg" alt="img">
                                             </div>
@@ -549,7 +549,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Rancho Vista Verde, Santa Barbara</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Rancho Vista Verde, Santa Barbara</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>33 Maple Street, San Francisco, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -584,7 +584,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-4.jpg" alt="img">
                                             </div>
@@ -610,7 +610,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Sunset Heights Estate, Beverly Hills</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Sunset Heights Estate, Beverly Hills</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>1040 Ocean, Santa Monica, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -645,7 +645,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-5.jpg" alt="img">
                                             </div>
@@ -671,7 +671,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Coastal Serenity Cottage</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Coastal Serenity Cottage</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>21 Hillside Drive, Beverly Hills, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -706,7 +706,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-6.jpg" alt="img">
                                             </div>
@@ -732,7 +732,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Lakeview Haven, Lake Tahoe</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Lakeview Haven, Lake Tahoe</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>8 Broadway, Brooklyn, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -767,7 +767,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-11.jpg" alt="img">
                                             </div>
@@ -793,7 +793,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Sunset Heights Estate, Beverly Hills</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Sunset Heights Estate, Beverly Hills</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>1040 Ocean, Santa Monica, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -828,7 +828,7 @@
                             <div class="col-md-6">
                                 <div class="homeya-box">
                                     <div class="archive-top">
-                                        <a href="property-details-v1.html" class="images-group">
+                                        <a href="property-details" class="images-group">
                                             <div class="images-style">
                                                 <img src="images/home/house-12.jpg" alt="img">
                                             </div>
@@ -854,7 +854,7 @@
                                             </div>
                                         </a>
                                         <div class="content">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Coastal Serenity Cottage</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Coastal Serenity Cottage</a></div>
                                             <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>21 Hillside Drive, Beverly Hills, California</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -898,7 +898,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-9.jpg" alt="img">
                                         </div>
@@ -924,7 +924,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Casa Lomas de Machalí Machas</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Casa Lomas de Machalí Machas</a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -959,7 +959,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-10.jpg" alt="img">
                                         </div>
@@ -985,7 +985,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Lakeview Haven, Lake Tahoe </a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Lakeview Haven, Lake Tahoe </a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -1020,7 +1020,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-6.jpg" alt="img">
                                         </div>
@@ -1047,7 +1047,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Sunset Heights Estate, Beverly Hills</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Sunset Heights Estate, Beverly Hills</a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -1082,7 +1082,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-5.jpg" alt="img">
                                         </div>
@@ -1108,7 +1108,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Lakeview Haven, Lake Tahoe</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Lakeview Haven, Lake Tahoe</a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -1143,7 +1143,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-1.jpg" alt="img">
                                         </div>
@@ -1170,7 +1170,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Casa Lomas de Machalí Machas</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Casa Lomas de Machalí Machas</a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -1205,7 +1205,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-13.jpg" alt="img">
                                         </div>
@@ -1231,7 +1231,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Lakeview Haven, Lake Tahoe</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Lakeview Haven, Lake Tahoe</a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
@@ -1266,7 +1266,7 @@
                             </div>
                             <div class="col-md-12">
                                 <div class="homeya-box list-style-1 list-style-2">
-                                    <a href="property-details-v1.html" class="images-group">
+                                    <a href="property-details" class="images-group">
                                         <div class="images-style">
                                             <img src="images/home/house-4.jpg" alt="img">
                                         </div>
@@ -1292,7 +1292,7 @@
                                     </a>
                                     <div class="content">
                                         <div class="archive-top">
-                                            <div class="h7 text-capitalize fw-7"><a href="property-details-v1.html" class="link">Lakeview Haven, Lake Tahoe</a></div>
+                                            <div class="h7 text-capitalize fw-7"><a href="property-details" class="link">Lakeview Haven, Lake Tahoe</a></div>
                                             <div class="desc"><i class="icon icon-mapPin"></i><p>145 Brooklyn Ave, Califonia, New York</p> </div>
                                             <ul class="meta-list">
                                                 <li class="item">
