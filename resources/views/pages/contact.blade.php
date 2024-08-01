@@ -61,14 +61,18 @@
                         <h5>Contact Us</h5>
                         <ul>
                             <li class="box">
-                                <div class="text-1 title">Address:</div>
-                                <p class="p-16 text-variant-1">101 E 129th St, East Chicago, IN 46312
-                                    <br> United States
+                                <div class="text-1 title">Office Location:</div>
+                                <p class="p-16 text-variant-1">Approx 100Mtrs, Off Kiambu road ( Conqara Grounds).
+                                    <br> Nairobi
                                 </p>
                             </li>
                             <li class="box">
-                                <div class="text-1 title">Infomation:</div>
-                                <p class="p-16 text-variant-1">1-333-345-6868 <br> hi.themesflat@gmail.com</p>
+                                <div class="text-1 title">Call us via:</div>
+                                <p class="p-16 text-variant-1">+254 112 708 684 <br> +254 755 668 385</p>
+                            </li>
+                            <li class="box">
+                                <div class="text-1 title">Email us on:</div>
+                                <p class="p-16 text-variant-1">anna@nesgardens.com <br> erick@nesgardens.com</p>
                             </li>
                             <li class="box">
                                 <div class="text-1 title">Opentime:</div>
