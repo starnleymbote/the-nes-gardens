@@ -4,14 +4,14 @@
          <div class="container">
              <div class="content-footer-top">
                  <div class="footer-logo">
-                     <img src="images/logo/logo-footer.png" alt="logo-footer" width="174" height="44">
+                     <img src="images/logo/nesville-footer.png" alt="logo-footer" width="174" height="44">
                  </div>
                  <div class="wd-social">
                      <span>Follow Us:</span>
                      <ul class="list-social d-flex align-items-center">
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-facebook"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-linkedin"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social">
+                         <li><a href="https://www.facebook.com/profile.php?id=61564468902968" target="_blank" class="box-icon w-40 social"><i class="icon icon-facebook"></i></a></li>
+                         <li><a href="#" class="box-icon w-40 social" target="_blank"><i class="icon icon-linkedin"></i></a></li>
+                         <li><a href="https://x.com/VilleNesGardens" target="_blank" class="box-icon w-40 social">
                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                      xmlns="http://www.w3.org/2000/svg">
                                      <g clip-path="url(#clip0_748_6323)">
@@ -26,9 +26,9 @@
                                      </defs>
                                  </svg>
                              </a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-pinterest"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-instagram"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-youtube"></i></a></li>
+                         <li><a href="https://www.tiktok.com/@nesvilleke" target="_blank" class="box-icon w-40 social"><i class="icon icon-pinterest"></i></a></li>
+                         <li><a href="#" class="box-icon w-40 social" target="_blank"><i class="icon icon-instagram"></i></a></li>
+                         <li><a href="#" class="box-icon w-40 social" target="_blank"><i class="icon icon-youtube"></i></a></li>
                      </ul>
                  </div>
              </div>
