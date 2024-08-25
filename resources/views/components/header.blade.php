@@ -6,8 +6,8 @@
                 <div class="inner-container d-flex justify-content-between align-items-center">
                     <!-- Logo Box -->
                     <div class="logo-box">
-                        <div class="logo"><a href="index-2.html"><img src="images/logo/logo-header.png" alt="logo"
-                                    width="174" height="30"></a></div>
+                        <div class="logo"><a href="index-2.html"><img src="images/logo/nesville-header.png" alt="logo"
+                                    width="105" height="30"></a></div>
                     </div>
                     <div class="nav-outer">
                         <!-- Main Menu -->

@@ -4,14 +4,14 @@
          <div class="container">
              <div class="content-footer-top">
                  <div class="footer-logo">
-                     <img src="images/logo/logo-footer.png" alt="logo-footer" width="174" height="44">
+                     <img src="images/logo/nesville-footer.png" alt="logo-footer" width="174" height="44">
                  </div>
                  <div class="wd-social">
                      <span>Follow Us:</span>
                      <ul class="list-social d-flex align-items-center">
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-facebook"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-linkedin"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social">
+                         <li><a href="https://www.facebook.com/profile.php?id=61564468902968" target="_blank" class="box-icon w-40 social"><i class="icon icon-facebook"></i></a></li>
+                         <li><a href="#" class="box-icon w-40 social" target="_blank"><i class="icon icon-linkedin"></i></a></li>
+                         <li><a href="https://x.com/VilleNesGardens" target="_blank" class="box-icon w-40 social">
                                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none"
                                      xmlns="http://www.w3.org/2000/svg">
                                      <g clip-path="url(#clip0_748_6323)">
@@ -25,10 +25,15 @@
                                          </clipPath>
                                      </defs>
                                  </svg>
-                             </a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-pinterest"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-instagram"></i></a></li>
-                         <li><a href="#" class="box-icon w-40 social"><i class="icon icon-youtube"></i></a></li>
+                             </a>
+                         </li>
+                         <li><a href="https://www.tiktok.com/@nesvilleke" target="_blank" class="box-icon w-40 social">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="25" viewBox="0 0 380 650">
+                                <path d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z" fill="white"/></svg>
+                            </a>
+                         </li>
+                         <li><a href="#" class="box-icon w-40 social" target="_blank"><i class="icon icon-instagram"></i></a></li>
+                         <li><a href="#" class="box-icon w-40 social" target="_blank"><i class="icon icon-youtube"></i></a></li>
                      </ul>
                  </div>
              </div>

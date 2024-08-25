@@ -7,7 +7,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>NES GARDENS</title>
+    <title>NES VILLE</title>
 
     <meta name="author" content="themesflat.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
