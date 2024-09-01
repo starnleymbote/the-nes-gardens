@@ -36,16 +36,15 @@
     <div class="container">
         <div class="header-property-detail">
             <div class="content-top d-flex justify-content-between align-items-center">
-                <div class="box-name">
-                    <h4 class="title link">Nes Ville Gardens</h4>
-                </div>
 
-                    <div class="box-avatar">
-                        <div class="avatar avt-100 round">
-                            <img src="/images/logo/" alt="avatar">
-                        </div>
-                        
+                <div class="box-name">
+                    <h5 class="title link">Nes Ville Gardens</h5>
+                </div>
+                
+                    <div class="round">
+                        <img src="images/logo/nesville-footer.png" width="70px" height="60px">
                     </div>
+                
 
             </div>
             <div class="content-bottom">

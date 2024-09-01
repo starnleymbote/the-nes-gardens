@@ -4,7 +4,7 @@
          <div class="container">
              <div class="content-footer-top">
                  <div class="footer-logo">
-                     <img src="images/logo/nesville-footer.png" alt="logo-footer" width="174" height="44">
+                     <img src="images/logo/nes_garden_tag_bottom.png" alt="logo-footer" width="200px" height="120px">
                  </div>
                  <div class="wd-social">
                      <span>Follow Us:</span>
