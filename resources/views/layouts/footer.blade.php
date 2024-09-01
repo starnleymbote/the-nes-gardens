@@ -65,8 +65,8 @@
                              <li class="mt-12 d-flex align-items-center gap-8">
                                 <i class="icon icon-send fs-20 text-variant-2"></i>
                                 <p class="text-white">
-                                    <a href="mailto:anna@nesgardens.com" class="text-white caption-1">anna@nesgardens.com</a>
-                                    <a href="mailto:erick@nesgardens.com" class="text-white caption-1">erick@nesgardens.com</a> 
+                                    <a href="mailto:anna@nesgardens.com" class="text-white caption-1">info@nesgardens.com</a>
+                                    <a href="mailto:erick@nesgardens.com" class="text-white caption-1">sales@nesgardens.com</a> 
                                 </p>
                             </li>
                          </ul>
