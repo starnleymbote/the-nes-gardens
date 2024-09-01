@@ -77,28 +77,19 @@
                      <div class="footer-cl-2">
                          <div class="fw-7 text-white">Categories</div>
                          <ul class="mt-10 navigation-menu-footer">
-                             <li> <a href="pricing.html" class="caption-1 text-variant-2">Pricing Plans</a> </li>
+                             <li> <a href="/about" class="caption-1 text-variant-2">About Us</a> </li>
 
-                             <li> <a href="our-service.html" class="caption-1 text-variant-2">Our Services</a> </li>
-
-                             <li> <a href="about-us.html" class="caption-1 text-variant-2">About Us</a> </li>
-
-                             <li> <a href="contact.html" class="caption-1 text-variant-2">Contact Us</a> </li>
+                             <li> <a href="/contact" class="caption-1 text-variant-2">Contact Us</a> </li>
 
                          </ul>
                      </div>
                  </div>
                  <div class="col-lg-2 col-md-4 col-6">
                      <div class="footer-cl-3">
-                         <div class="fw-7 text-white">Our Company</div>
+                         <div class="fw-7 text-white">Our Projects</div>
                          <ul class="mt-10 navigation-menu-footer">
-                             <li> <a href="topmap-list.html" class="caption-1 text-variant-2">Property For Sale</a>
+                             <li> <a href="/property-details" class="caption-1 text-variant-2">Nes Ville Gardens</a>
                              </li>
-
-                             <li> <a href="topmap-grid.html" class="caption-1 text-variant-2">Property For Rent</a>
-                             </li>
-                             <li> <a href="topmap-grid.html" class="caption-1 text-variant-2">Property For Buy</a> </li>
-                             <li> <a href="topmap-grid.html" class="caption-1 text-variant-2">Our Agents</a> </li>
                          </ul>
                      </div>
                  </div>
