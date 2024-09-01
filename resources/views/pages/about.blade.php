@@ -35,7 +35,7 @@
         </div>
     </section>
     <!-- end banner video -->
-    <!-- Mission Statement -->
+    
     <section class="flat-title-page flat-banner-about">
         <div class="container">
             <h2 class="text-center fs-22 text-primary">Vision Statement</u></h2>

@@ -1980,7 +1980,9 @@ label {
 .header-style-3 .btn-search-mb {
   display: none;
 }
-
+.bolden {
+  font-weight: bold;
+}
 .header-style-3 .btn-menu-nav {
   font-size: 28px;
   margin-left: 20px;
