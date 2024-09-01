@@ -72,7 +72,7 @@
                             </li>
                             <li class="box">
                                 <div class="text-1 title">Email us on:</div>
-                                <p class="p-16 text-variant-1">anna@nesgardens.com <br> erick@nesgardens.com</p>
+                                <p class="p-16 text-variant-1">info@nesgardens.com <br> sales@nesgardens.com</p>
                             </li>
                             <li class="box">
                                 <div class="text-1 title">Opentime:</div>

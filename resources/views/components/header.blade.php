@@ -17,28 +17,15 @@
                                     <li class="">
                                         <a href="{{ route('home') }}">Home</a>
                                     </li>
-                                    <li class="">
-                                        <a href="{{ route('listings') }}">Listing</a>                         
-                                    </li>
-                                    <li class="">
-                                        <a href="{{ route('about') }}">About Us</a>                         
+                                    <li class="dropdown2"><a href="#">Projects</a>
+                                        <ul>
+                                            <li><a href="/property-details">Nes Ville Gardens</a></li>
+                                        </ul>
                                     </li>
                                     <li class="">
                                         <a href="{{ route('contact') }}">Contact</a>                         
                                     </li>
-                                    <li class="">
-                                        <a href="{{ route('property') }}">Properties</a>
-                                    </li>
-                                    <li class="dropdown2"><a href="#">Pages</a>
-                                        <ul>
-                                            <li><a href="{{ route('about') }}">About Us</a></li>
-                                            <li><a href="{{ route('services') }}">Our Services</a></li>
-                                            <li><a href="{{ route('pricing') }}">Pricing</a></li>
-                                            <li><a href="{{ route('contact') }}">Contact Us</a></li>
-                                            <li><a href="{{ route('faq') }}">FAQs</a></li>
-                                            <li><a href="{{ route('policy') }}">Privacy Policy</a></li>
-                                        </ul>
-                                    </li>
+                                    
                                     <li class="">
                                         <a href="{{ route('blog') }}">Blog</a>
                                     </li>
