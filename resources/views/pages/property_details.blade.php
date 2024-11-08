@@ -38,7 +38,7 @@
             <div class="content-top d-flex justify-content-between align-items-center">
 
                 <div class="box-name">
-                    <h5 class="title link">Nes Ville Gardens</h5>
+                    <h5 class="title link">Nesville Gardens</h5>
                 </div>
                 
                     <div class="round">

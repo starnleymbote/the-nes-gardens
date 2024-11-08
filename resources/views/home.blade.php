@@ -10,7 +10,7 @@
                 <div class="slider-content">
                     <div class="heading text-center">
                         <h1 class="text-white animationtext slide">
-                            Building Dreams, Creating Tranquility
+                            Building your dream home, Creating Tranquility
                           
                         </h1>
                         <p class="subtitle text-white body-1 wow fadeIn" data-wow-delay=".8s" data-wow-duration="2000ms">We are a real estate agency that will help you find the best residence you dream of, let’s discuss for your dream house?</p>
@@ -164,7 +164,7 @@
 <section class="flat-title-page flat-banner-about">
     <div class="container">
         <div class="box-title text-center wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration="2000ms">
-            <div class="text-subtitle text-primary">Building dreams....</div>
+            <div class="text-subtitle text-primary">Building your dream home, Creating Tranquility....</div>
             <h4 class="mt-4">Our Project</h4>
         </div>
         <div class="flat-tab-recommended wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration="2000ms">
@@ -180,7 +180,7 @@
                                         </div>
                                         <div class="top">
                                             <ul class="d-flex flex-column gap-8">
-                                                <li class="flag-tag success">Nes Ville Gardens</li>
+                                                <li class="flag-tag success">Nesville Gardens</li>
                                                 {{-- <li class="flag-tag style-1">Nestled at <span class="icon icon-heart" style="color: green"></span> of Kiambu County --}}
                                             </ul>
                                             <ul class="d-flex flex-column gap-4">
@@ -199,7 +199,7 @@
                                         </div>
                                     </a>
                                     <div class="content">
-                                        <div class="h7 text-capitalize fw-7"><a href="/property-details" class="link"> Nes Ville Garden</a></div>
+                                        <div class="h7 text-capitalize fw-7"><a href="/property-details" class="link"> Nesville Garden</a></div>
                                         <div class="desc"><i class="fs-16 icon icon-mapPin"></i><p>Kiambu, 13km from Nairobi CBD</p> </div>
                                         <ul class="meta-list">
                                             <li class="item">

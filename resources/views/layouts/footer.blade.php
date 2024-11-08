@@ -88,7 +88,7 @@
                      <div class="footer-cl-3">
                          <div class="fw-7 text-white">Our Projects</div>
                          <ul class="mt-10 navigation-menu-footer">
-                             <li> <a href="/property-details" class="caption-1 text-variant-2">Nes Ville Gardens</a>
+                             <li> <a href="/property-details" class="caption-1 text-variant-2">Nesville Gardens</a>
                              </li>
                          </ul>
                      </div>

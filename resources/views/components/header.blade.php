@@ -19,7 +19,7 @@
                                     </li>
                                     <li class="dropdown2"><a href="#">Projects</a>
                                         <ul>
-                                            <li><a href="/property-details">Nes Ville Gardens</a></li>
+                                            <li><a href="/property-details">Nesville Gardens</a></li>
                                         </ul>
                                     </li>
                                     <li class="">
